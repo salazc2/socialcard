@@ -1,3 +1,7 @@
+## Social Card
+
+This is a react js project to make a social card. Teaching myself react js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
